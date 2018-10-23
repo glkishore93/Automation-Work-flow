@@ -1,4 +1,4 @@
-Abstract ::
+# Abstract of the Automation-Work-flow project
 
 
      This project was done in my academic Internship in Great four systems Pvt Ltd, this company is a start-up with around 30 employees who work on a web application called Harmony. The main functionality of the Harmony is to provide features which are used in an, end to end labelling process of pharmaceutical drugs. This application is completely configurable and can be customized with respective to the client requirement.
@@ -9,7 +9,7 @@ Abstract ::
      
 
 
-# Detailed Weekly Report of Internship work
+ Detailed Weekly Report of Internship work
 
 
 
