@@ -20,6 +20,7 @@ Week 3:
 
 
 Week 4:
+
 • Worked on the application Login page.
 
 • Read the values dynamically from excel sheet. 
@@ -28,6 +29,7 @@ Week 4:
 
 
 Week 5:
+
 • Made a separate package for all the java classes. each java class represents a functionality in the product
 
 • faced an issue continuing the automation flow through different classes, as I have given different webdriver for each class.
